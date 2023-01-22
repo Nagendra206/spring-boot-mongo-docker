@@ -18,6 +18,8 @@
 		<spring-boot.version>2.1.5.RELEASE</spring-boot.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
 		<logstash-logback-encoder.version>6.1</logstash-logback-encoder.version>
+		<docker.image.prefix>kammana</docker.image.prefix>
+	        <sonar.host.url>http://65.0.133.151:9000/</sonar.host.url>
 	</properties>
 
 	<dependencyManagement>
